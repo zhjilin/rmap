@@ -1,0 +1,87 @@
+Input	Match type	Approved symbol	Approved name	HGNC ID	Location
+BOLL	Approved symbol	BOLL	boule homolog, RNA binding protein	HGNC:14273	2q33.1
+CARHSP1	Approved symbol	CARHSP1	calcium regulated heat stable protein 1	HGNC:17150	16p13.2
+CELF1	Approved symbol	CELF1	CUGBP, Elav-like family member 1	HGNC:2549	11p11.2
+CELF3	Approved symbol	CELF3	CUGBP, Elav-like family member 3	HGNC:11967	1q21.3
+CSDA	Previous symbol	YBX3	Y-box binding protein 3	HGNC:2428	12p13.2
+CSTF2	Approved symbol	CSTF2	cleavage stimulation factor subunit 2	HGNC:2484	Xq22.1
+CSTF2T	Approved symbol	CSTF2T	cleavage stimulation factor subunit 2 tau variant	HGNC:17086	10q21.1
+DAZ1	Approved symbol	DAZ1	deleted in azoospermia 1	HGNC:2682	Yq11.223
+DAZAP1	Approved symbol	DAZAP1	DAZ associated protein 1	HGNC:2683	19p13.3
+DAZL	Approved symbol	DAZL	deleted in azoospermia like	HGNC:2685	3p24.3
+ELAVL3	Approved symbol	ELAVL3	ELAV like RNA binding protein 3	HGNC:3314	19p13.2
+HNRNPA1	Approved symbol	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	HGNC:5031	12q13.13
+HNRNPA1L2	Approved symbol	HNRNPA1L2	heterogeneous nuclear ribonucleoprotein A1-like 2	HGNC:27067	13q14.3
+HNRNPA3	Approved symbol	HNRNPA3	heterogeneous nuclear ribonucleoprotein A3	HGNC:24941	2q31.2
+HNRNPC	Approved symbol	HNRNPC	heterogeneous nuclear ribonucleoprotein C (C1/C2)	HGNC:5035	14q11.2
+HNRNPCL1	Approved symbol	HNRNPCL1	heterogeneous nuclear ribonucleoprotein C-like 1	HGNC:29295	1p36.21
+HNRNPL	Approved symbol	HNRNPL	heterogeneous nuclear ribonucleoprotein L	HGNC:5045	19q13.2
+HNRPLL	Previous symbol	HNRNPLL	heterogeneous nuclear ribonucleoprotein L like	HGNC:25127	2p22.1
+IGF2BP1	Approved symbol	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1	HGNC:28866	17q21.32
+KHDRBS1	Approved symbol	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1	HGNC:18116	1p35.2
+KHDRBS3	Approved symbol	KHDRBS3	KH RNA binding domain containing, signal transduction associated 3	HGNC:18117	8q24.23
+LARP6	Approved symbol	LARP6	La ribonucleoprotein domain family member 6	HGNC:24012	15q23
+MEX3B	Approved symbol	MEX3B	mex-3 RNA binding family member B	HGNC:25297	15q25.2
+MEX3C	Approved symbol	MEX3C	mex-3 RNA binding family member C	HGNC:28040	18q21.2
+MEX3D	Approved symbol	MEX3D	mex-3 RNA binding family member D	HGNC:16734	19p13.3
+MKRN1	Approved symbol	MKRN1	makorin ring finger protein 1	HGNC:7112	7q34
+MSI1	Approved symbol	MSI1	musashi RNA binding protein 1	HGNC:7330	12q24.31
+MSI2	Approved symbol	MSI2	musashi RNA binding protein 2	HGNC:18585	17q22
+NOVA2	Approved symbol	NOVA2	NOVA alternative splicing regulator 2	HGNC:7887	19q13.32
+PABPC5	Approved symbol	PABPC5	poly(A) binding protein cytoplasmic 5	HGNC:13629	Xq21.31
+PCBP1	Approved symbol	PCBP1	poly(rC) binding protein 1	HGNC:8647	2p13.3
+PUM2	Approved symbol	PUM2	pumilio RNA binding family member 2	HGNC:14958	2p24.1
+QKI	Approved symbol	QKI	QKI, KH domain containing RNA binding	HGNC:21100	6q26
+RALY	Approved symbol	RALY	RALY heterogeneous nuclear ribonucleoprotein	HGNC:15921	20q11.22
+RBFOX1	Approved symbol	RBFOX1	RNA binding protein, fox-1 homolog 1	HGNC:18222	16p13.3
+RBFOX3	Approved symbol	RBFOX3	RNA binding protein, fox-1 homolog 3	HGNC:27097	17q25.3
+RBM14	Approved symbol	RBM14	RNA binding motif protein 14	HGNC:14219	11q13.2
+RBM24	Approved symbol	RBM24	RNA binding motif protein 24	HGNC:21539	6p22.3
+RBM28	Approved symbol	RBM28	RNA binding motif protein 28	HGNC:21863	7q32.1
+RBM38	Approved symbol	RBM38	RNA binding motif protein 38	HGNC:15818	20q13.31
+RBM4	Approved symbol	RBM4	RNA binding motif protein 4	HGNC:9901	11q13.2
+RBM4B	Approved symbol	RBM4B	RNA binding motif protein 4B	HGNC:28842	11q13
+RBM6	Approved symbol	RBM6	RNA binding motif protein 6	HGNC:9903	3p21.31
+RBMS1	Approved symbol	RBMS1	RNA binding motif single stranded interacting protein 1	HGNC:9907	2q24.2
+RBMY1F	Approved symbol	RBMY1F	RNA binding motif protein, Y-linked, family 1, member F	HGNC:23974	Yq11.223
+RBMY1J	Approved symbol	RBMY1J	RNA binding motif protein, Y-linked, family 1, member J	HGNC:23917	Yq11.223
+RBPMS	Approved symbol	RBPMS	RNA binding protein with multiple splicing	HGNC:19097	8p12
+RC3H1	Approved symbol	RC3H1	ring finger and CCCH-type domains 1	HGNC:29434	1q25.1
+RC3H2	Approved symbol	RC3H2	ring finger and CCCH-type domains 2	HGNC:21461	9q33.2
+RNPC3	Approved symbol	RNPC3	RNA binding region (RNP1, RRM) containing 3	HGNC:18666	1p21.1
+SART3	Approved symbol	SART3	squamous cell carcinoma antigen recognized by T-cells 3	HGNC:16860	12q23.3
+SNRPA	Approved symbol	SNRPA	small nuclear ribonucleoprotein polypeptide A	HGNC:11151	19q13.1
+SNRPB2	Approved symbol	SNRPB2	small nuclear ribonucleoprotein polypeptide B2	HGNC:11155	20p12.1
+THUMPD1	Approved symbol	THUMPD1	THUMP domain containing 1	HGNC:23807	16p12.3
+YBX1	Approved symbol	YBX1	Y-box binding protein 1	HGNC:8014	1p34.2
+YBX2	Approved symbol	YBX2	Y-box binding protein 2	HGNC:17948	17p13.1
+ZC3H10	Approved symbol	ZC3H10	zinc finger CCCH-type containing 10	HGNC:25893	12q13.2
+ZC3H12A	Approved symbol	ZC3H12A	zinc finger CCCH-type containing 12A	HGNC:26259	1p34.3
+ZC3H12B	Approved symbol	ZC3H12B	zinc finger CCCH-type containing 12B	HGNC:17407	Xq11.2-q12
+ZC3H12C	Approved symbol	ZC3H12C	zinc finger CCCH-type containing 12C	HGNC:29362	11q22.3
+ZCRB1	Approved symbol	ZCRB1	zinc finger CCHC-type and RNA binding motif containing 1	HGNC:29620	12q12
+ZFP36	Approved symbol	ZFP36	ZFP36 ring finger protein	HGNC:12862	19q13.1
+ZFR	Approved symbol	ZFR	zinc finger RNA binding protein	HGNC:17277	5p13.3
+ZRANB2	Approved symbol	ZRANB2	zinc finger RANBP2-type containing 2	HGNC:13058	1p31.1
+TARDBP	Approved symbol	TARDBP	TAR DNA binding protein	HGNC:11571	1p36.22
+ESRP1	Approved symbol	ESRP1	epithelial splicing regulatory protein 1	HGNC:25966	8q22.1
+CELF4	Approved symbol	CELF4	CUGBP, Elav-like family member 4	HGNC:14015	18q12.2
+DAZ3	Approved symbol	DAZ3	deleted in azoospermia 3	HGNC:15965	Yq11.23
+DAZ4	Approved symbol	DAZ4	deleted in azoospermia 4	HGNC:15966	Yq11.23
+HEXIM2	Approved symbol	HEXIM2	hexamethylene bisacetamide inducible 2	HGNC:28591	17q21.31
+HEXIM1	Approved symbol	HEXIM1	hexamethylene bisacetamide inducible 1	HGNC:24953	17q21.31
+HNRNPA0	Approved symbol	HNRNPA0	heterogeneous nuclear ribonucleoprotein A0	HGNC:5030	5q31.2
+MCM3AP	Approved symbol	MCM3AP	minichromosome maintenance complex component 3 associated protein	HGNC:6946	21q22.3
+SNRNP70	Approved symbol	SNRNP70	small nuclear ribonucleoprotein U1 subunit 70	HGNC:11150	19q13.33
+ELAVL1	Approved symbol	ELAVL1	ELAV like RNA binding protein 1	HGNC:3312	19p13.2
+ELAVL4	Approved symbol	ELAVL4	ELAV like RNA binding protein 4	HGNC:3315	1p33-p32.3
+KHDRBS2	Approved symbol	KHDRBS2	KH RNA binding domain containing, signal transduction associated 2	HGNC:18114	6q11.1
+LARP7	Approved symbol	LARP7	La ribonucleoprotein domain family member 7	HGNC:24912	4q25
+PUM1	Approved symbol	PUM1	pumilio RNA binding family member 1	HGNC:14957	1p35.2
+RBM42	Approved symbol	RBM42	RNA binding motif protein 42	HGNC:28117	19q13.12
+RBM46	Approved symbol	RBM46	RNA binding motif protein 46	HGNC:28401	4q32.1
+RBMS2	Approved symbol	RBMS2	RNA binding motif single stranded interacting protein 2	HGNC:9909	12q13.3
+RBMS3	Approved symbol	RBMS3	RNA binding motif single stranded interacting protein 3	HGNC:13427	3p24.1
+RBMY1E	Approved symbol	RBMY1E	RNA binding motif protein, Y-linked, family 1, member E	HGNC:23916	Yq11.223
+RBPMS2	Approved symbol	RBPMS2	RNA binding protein with multiple splicing 2	HGNC:19098	15q22.31
+ZC3H8	Approved symbol	ZC3H8	zinc finger CCCH-type containing 8	HGNC:30941	2q14.1

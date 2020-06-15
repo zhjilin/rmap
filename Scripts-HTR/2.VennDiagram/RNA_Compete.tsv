@@ -1,0 +1,78 @@
+Input	Match type	Approved symbol	Approved name	HGNC ID	Location	Number
+A1CF	Approved symbol	A1CF	APOBEC1 complementation factor	HGNC:24086	10q21.1	1
+A2BP1	Synonyms	RBFOX1	RNA binding protein, fox-1 homolog 1	HGNC:18222	16p13.3	82
+ANKHD1	Approved symbol	ANKHD1	ankyrin repeat and KH domain containing 1	HGNC:24714	5q31.3	3
+BRUNOL4	Previous symbol	CELF4	CUGBP, Elav-like family member 4	HGNC:14015	18q12	8
+BRUNOL5	Previous symbol	CELF5	CUGBP, Elav-like family member 5	HGNC:14058	19p13	9
+BRUNOL6	Previous symbol	CELF6	CUGBP, Elav-like family member 6	HGNC:14059	15q24	10
+CNOT4	Approved symbol	CNOT4	CCR4-NOT transcription complex subunit 4	HGNC:7880	7q33	11
+CPEB2	Approved symbol	CPEB2	cytoplasmic polyadenylation element binding protein 2	HGNC:21745	4p15.33	12
+CPEB4	Approved symbol	CPEB4	cytoplasmic polyadenylation element binding protein 4	HGNC:21747	5q21	13
+DAZAP1	Approved symbol	DAZAP1	DAZ associated protein 1	HGNC:2683	19p13.3	19
+ELAVL1	Approved symbol	ELAVL1	ELAV like RNA binding protein 1	HGNC:3312	19p13.2	22
+ENOX1	Approved symbol	ENOX1	ecto-NOX disulfide-thiol exchanger 1	HGNC:25474	13q14.11	26
+ESRP2	Approved symbol	ESRP2	epithelial splicing regulatory protein 2	HGNC:26152	16q22.1	27
+FMR1	Approved symbol	FMR1	fragile X mental retardation 1	HGNC:3775	Xq27.3	28
+FXR1	Approved symbol	FXR1	FMR1 autosomal homolog 1	HGNC:4023	3q28	30
+FXR2	Approved symbol	FXR2	FMR1 autosomal homolog 2	HGNC:4024	17p13.3	31
+Fusip1	Previous symbol	SRSF10	serine and arginine rich splicing factor 10	HGNC:16713	1p36.11	118
+G3BP2	Approved symbol	G3BP2	G3BP stress granule assembly factor 2	HGNC:30291	4q21.1	33
+HNRNPA1	Approved symbol	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	HGNC:5031	12q13.1	37
+HNRNPA1	Synonyms	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	HGNC:5031	12q13.1	37
+HNRNPA1L2	Approved symbol	HNRNPA1L2	heterogeneous nuclear ribonucleoprotein A1-like 2	HGNC:27067	13q14.3	38
+HNRNPA2B1	Approved symbol	HNRNPA2B1	heterogeneous nuclear ribonucleoprotein A2/B1	HGNC:5033	7p15	39
+HNRNPC	Approved symbol	HNRNPC	heterogeneous nuclear ribonucleoprotein C (C1/C2)	HGNC:5035	14q11.2	42
+HNRNPC	Synonyms	HNRNPC	heterogeneous nuclear ribonucleoprotein C (C1/C2)	HGNC:5035	14q11.2	42
+HNRNPCL1	Approved symbol	HNRNPCL1	heterogeneous nuclear ribonucleoprotein C-like 1	HGNC:29295	1p36.21	43
+HNRNPH2	Approved symbol	HNRNPH2	heterogeneous nuclear ribonucleoprotein H2 (H)	HGNC:5042	Xq22	44
+HNRNPL	Approved symbol	HNRNPL	heterogeneous nuclear ribonucleoprotein L	HGNC:5045	19q13.2	45
+IGF2BP2	Approved symbol	IGF2BP2	insulin like growth factor 2 mRNA binding protein 2	HGNC:28867	3q27.2	48
+IGF2BP3	Approved symbol	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3	HGNC:28868	7p15.3	49
+KHDRBS1	Approved symbol	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1	HGNC:18116	1p32	50
+KHDRBS2	Approved symbol	KHDRBS2	KH RNA binding domain containing, signal transduction associated 2	HGNC:18114	6q11.1	51
+KHDRBS3	Approved symbol	KHDRBS3	KH RNA binding domain containing, signal transduction associated 3	HGNC:18117	8q24.23	52
+LIN28A	Approved symbol	LIN28A	lin-28 homolog A	HGNC:15986	1p35.3	55
+MATR3	Approved symbol	MATR3	matrin 3	HGNC:6912	5q31.3	56
+MBNL1	Approved symbol	MBNL1	muscleblind like splicing regulator 1	HGNC:6923	3q25	57
+MSI1	Approved symbol	MSI1	musashi RNA binding protein 1	HGNC:7330	12q24	63
+PABPC1	Approved symbol	PABPC1	poly(A) binding protein cytoplasmic 1	HGNC:8554	8q22.2-q23	69
+PABPC3	Approved symbol	PABPC3	poly(A) binding protein cytoplasmic 3	HGNC:8556	13q12-q13	70
+PABPC4	Approved symbol	PABPC4	poly(A) binding protein cytoplasmic 4	HGNC:8557	1p34.2	71
+PABPC5	Approved symbol	PABPC5	poly(A) binding protein cytoplasmic 5	HGNC:13629	Xq21.3	72
+PABPN1	Approved symbol	PABPN1	poly(A) binding protein nuclear 1	HGNC:8565	14q11.2	73
+PCBP1	Approved symbol	PCBP1	poly(rC) binding protein 1	HGNC:8647	2p13-p12	74
+PCBP2	Approved symbol	PCBP2	poly(rC) binding protein 2	HGNC:8648	12q13.13	75
+PPRC1	Approved symbol	PPRC1	peroxisome proliferator-activated receptor gamma, coactivator-related 1	HGNC:30025	10q24.32	76
+PTBP1	Approved symbol	PTBP1	polypyrimidine tract binding protein 1	HGNC:9583	19p13.3	77
+QKI	Approved symbol	QKI	QKI, KH domain containing RNA binding	HGNC:21100	6q26	80
+RALY	Approved symbol	RALY	RALY heterogeneous nuclear ribonucleoprotein	HGNC:15921	20q11.21-q11.23	81
+RBM24	Approved symbol	RBM24	RNA binding motif protein 24	HGNC:21539	6p22.3	86
+RBM28	Approved symbol	RBM28	RNA binding motif protein 28	HGNC:21863	7q32.2	87
+RBM3	Approved symbol	RBM3	RNA binding motif (RNP1, RRM) protein 3	HGNC:9900	Xp11.2	88
+RBM4	Approved symbol	RBM4	RNA binding motif protein 4	HGNC:9901	11q13	90
+RBM41	Approved symbol	RBM41	RNA binding motif protein 41	HGNC:25617	Xq22.3	91
+RBM42	Approved symbol	RBM42	RNA binding motif protein 42	HGNC:28117	19q13.12	92
+RBM46	Approved symbol	RBM46	RNA binding motif protein 46	HGNC:28401	4q32.1	93
+RBM5	Approved symbol	RBM5	RNA binding motif protein 5	HGNC:9902	3p21.3	95
+RBM6	Approved symbol	RBM6	RNA binding motif protein 6	HGNC:9903	3p21.3	96
+RBM8A	Approved symbol	RBM8A	RNA binding motif protein 8A	HGNC:9905	1q21.1	97
+RBMS1	Approved symbol	RBMS1	RNA binding motif single stranded interacting protein 1	HGNC:9907	2q24.2	98
+RBMS3	Approved symbol	RBMS3	RNA binding motif single stranded interacting protein 3	HGNC:13427	3p24-p23	100
+SAMD4A	Approved symbol	SAMD4A	sterile alpha motif domain containing 4A	HGNC:23023	14q22.2	111
+SART3	Approved symbol	SART3	squamous cell carcinoma antigen recognized by T-cells 3	HGNC:16860	12q24.11	112
+SFPQ	Approved symbol	SFPQ	splicing factor proline and glutamine rich	HGNC:10774	1p34.3	113
+SNRNP70	Approved symbol	SNRNP70	small nuclear ribonucleoprotein U1 subunit 70	HGNC:11150	19q13.3	114
+SNRPA	Approved symbol	SNRPA	small nuclear ribonucleoprotein polypeptide A	HGNC:11151	19q13.1	115
+SRSF1	Approved symbol	SRSF1	serine and arginine rich splicing factor 1	HGNC:10780	17q22	117
+SRSF2	Approved symbol	SRSF2	serine and arginine rich splicing factor 2	HGNC:10783	17q25.2	119
+SRSF7	Approved symbol	SRSF7	serine and arginine rich splicing factor 7	HGNC:10789	2p22.1	121
+SRSF9	Approved symbol	SRSF9	serine and arginine rich splicing factor 9	HGNC:10791	12q24.31	122
+STAR-PAP	Old symbol not included in GNHC	TUT1	terminal uridylyl transferase 1, U6 snRNA-specific	HGNC:26184	11q12.2	127
+TARDBP	Approved symbol	TARDBP	TAR DNA binding protein	HGNC:11571	1p36.22	123
+TIA1	Approved symbol	TIA1	TIA1 cytotoxic granule associated RNA binding protein	HGNC:11802	2p13	125
+U2AF2	Approved symbol	U2AF2	U2 small nuclear RNA auxiliary factor 2	HGNC:23156	19q13.43	128
+YB-1	Synonyms	YBX1	Y-box binding protein 1	HGNC:8014	1p34	129
+YBX2	Approved symbol	YBX2	Y-box binding protein 2	HGNC:17948	17p13.1	130
+ZC3H10	Approved symbol	ZC3H10	zinc finger CCCH-type containing 10	HGNC:25893	12q13.2	133
+ZCRB1	Approved symbol	ZCRB1	zinc finger CCHC-type and RNA binding motif containing 1	HGNC:29620	12q12	138
+ZNF638	Approved symbol	ZNF638	zinc finger protein 638	HGNC:17894	2p13.1	141

@@ -1,0 +1,32 @@
+Input	Match type	Approved symbol	Approved name	HGNC ID	Location	Number
+A2BP1	Synonyms	RBFOX1	RNA binding protein, fox-1 homolog 1	HGNC:18222	16p13.3	82
+ACO1	Approved symbol	ACO1	aconitase 1	HGNC:117	9p21.1	2
+EIF4B	Approved symbol	EIF4B	eukaryotic translation initiation factor 4B	HGNC:3285	12q13.13	21
+ELAVL2	Approved symbol	ELAVL2	ELAV like RNA binding protein 2	HGNC:3313	9p21	23
+FMR1	Approved symbol	FMR1	fragile X mental retardation 1	HGNC:3775	Xq27.3	28
+FUS	Approved symbol	FUS	FUS RNA binding protein	HGNC:4010	16p11.2	29
+G3BP1	Approved symbol	G3BP1	G3BP stress granule assembly factor 1	HGNC:30292	5q33.1	32
+HNRNPA1	Approved symbol	HNRNPA1	heterogeneous nuclear ribonucleoprotein A1	HGNC:5031	12q13.1	37
+HNRNPAB	Approved symbol	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B	HGNC:5034	5q35.3	41
+IGF2BP1	Approved symbol	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1	HGNC:28866	17q21.32	47
+MBNL1	Approved symbol	MBNL1	muscleblind like splicing regulator 1	HGNC:6923	3q25	57
+NCL	Approved symbol	NCL	nucleolin	HGNC:7667	2q37.1	65
+NONO	Approved symbol	NONO	non-POU domain containing, octamer-binding	HGNC:7871	Xq13.1	66
+NOVA1	Approved symbol	NOVA1	NOVA alternative splicing regulator 1	HGNC:7886	14q12	67
+NOVA2	Approved symbol	NOVA2	NOVA alternative splicing regulator 2	HGNC:7887	19q13.32	68
+PABPC1	Approved symbol	PABPC1	poly(A) binding protein cytoplasmic 1	HGNC:8554	8q22.2-q23	69
+PTBP1	Approved symbol	PTBP1	polypyrimidine tract binding protein 1	HGNC:9583	19p13.3	77
+QKI	Approved symbol	QKI	QKI, KH domain containing RNA binding	HGNC:21100	6q26	80
+RBMX	Approved symbol	RBMX	RNA binding motif protein, X-linked	HGNC:9910	Xq26	101
+RBMY1A1	Approved symbol	RBMY1A1	RNA binding motif protein, Y-linked, family 1, member A1	HGNC:9912	Yq11.23	102
+SFPQ	Approved symbol	SFPQ	splicing factor proline and glutamine rich	HGNC:10774	1p34.3	113
+SNRPA	Approved symbol	SNRPA	small nuclear ribonucleoprotein polypeptide A	HGNC:11151	19q13.1	115
+SRSF1	Approved symbol	SRSF1	serine and arginine rich splicing factor 1	HGNC:10780	17q22	117
+SRSF2	Approved symbol	SRSF2	serine and arginine rich splicing factor 2	HGNC:10783	17q25.2	119
+SRSF5	Approved symbol	SRSF5	serine and arginine rich splicing factor 5	HGNC:10787	14q24	120
+SRSF7	Approved symbol	SRSF7	serine and arginine rich splicing factor 7	HGNC:10789	2p22.1	121
+SRSF9	Approved symbol	SRSF9	serine and arginine rich splicing factor 9	HGNC:10791	12q24.31	122
+TRA2B	Approved symbol	TRA2B	transformer 2 beta homolog (Drosophila)	HGNC:10781	3q26.2-q27	126
+YTHDC1	Approved symbol	YTHDC1	YTH domain containing 1	HGNC:30626	4q13.3	132
+ZFP36	Approved symbol	ZFP36	ZFP36 ring finger protein	HGNC:12862	19q13.1	139
+ZRANB2	Approved symbol	ZRANB2	zinc finger RANBP2-type containing 2	HGNC:13058	1p31	142
