@@ -14,7 +14,7 @@ By default the program will perform the task 2), which gives scores to all possi
 Keep in mind, it will yield a massive text file if you run it for the whole genome. It might be useful to filter position with low scores.
 
 
-##DEPENDENCY
+## DEPENDENCY
 
 The code relies on the following libraries
 
