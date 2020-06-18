@@ -42,7 +42,7 @@ This will generate a binary file 'rmap' in the current folder'
 
 —-implemented for macOS and CentOS 6 (other platform were not tested).
 
-INSTALLATION
+### INSTALLATION
 
 The binary file rmap can be placed at desired location after compiling successfully.
 
