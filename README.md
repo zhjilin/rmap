@@ -14,7 +14,7 @@ By default, the program will perform the task 2), which gives scores to all poss
 Note: Running for a whole genome will create a massive text file. Only one sequence is allowed for one run. It might be useful to filter positions with low scores.
 
 
-##DEPENDENCY
+## DEPENDENCY
 
 The code relies on the following libraries
 
@@ -42,7 +42,7 @@ This will generate a binary file 'rmap' in the current folder
 
 —-implemented for macOS and CentOS 6 (other platform were not tested).
 
-INSTALLATION
+### INSTALLATION
 
 The binary file rmap can be placed at any desired location after compiling successfully.
 
