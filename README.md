@@ -28,12 +28,18 @@ https://github.com/attractivechaos/klib/blob/master/kseq.h
 Compiling this program requires:
 
 ### for Mac:
+
+```
 >=clang-800.0.42.1
 BOOST >=106300
+```
 
 ### for Linux:
+
+```
 >=g++ 4.4.7
 BOOST >=105900
+```
 
 ```
 g++ -std=c++11 main.cpp -o rmap -lboost_program_options -lz
