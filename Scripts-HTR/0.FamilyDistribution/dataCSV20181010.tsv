@@ -1,0 +1,392 @@
+MBNL1	CCCH ZF	Empty	SELEX	RNACompete	RBNS	D
+ZC3H10	CCCH ZF	HTR	Empty	RNACompete	Empty	D
+ZFP36	CCCH ZF	HTR	SELEX	Empty	RBNS	D
+LIN28A	CCHC ZF,CSD	Empty	Empty	RNACompete	Empty	D
+SRSF7	CCHC ZF,RRM	Empty	SELEX	RNACompete	Empty	D
+ZCRB1	CCHC ZF,RRM	HTR	Empty	RNACompete	RBNS	D
+YBX1	CSD	HTR	Empty	RNACompete	Empty	D
+YBX2	CSD	HTR	Empty	RNACompete	Empty	D
+ANKHD1	KH	Empty	Empty	RNACompete	Empty	D
+FMR1	KH	Empty	SELEX	RNACompete	Empty	D
+FXR1	KH	Empty	Empty	RNACompete	Empty	D
+FXR2	KH	Empty	Empty	RNACompete	Empty	D
+HNRNPK	KH	Empty	Empty	Empty	RBNS	D
+KHDRBS1	KH	HTR	Empty	RNACompete	Empty	D
+KHDRBS2	KH	HTR	Empty	RNACompete	RBNS	D
+KHDRBS3	KH	HTR	Empty	RNACompete	RBNS	D
+KHSRP	KH	Empty	Empty	Empty	RBNS	D
+NOVA1	KH	Empty	SELEX	Empty	RBNS	D
+NOVA2	KH	HTR	SELEX	Empty	Empty	D
+PCBP1	KH	HTR	Empty	RNACompete	RBNS	D
+PCBP2	KH	Empty	Empty	RNACompete	RBNS	D
+QKI	KH	HTR	SELEX	RNACompete	Empty	D
+IGF2BP1	KH,RRM	HTR	SELEX	Empty	RBNS	D
+IGF2BP2	KH,RRM	Empty	Empty	RNACompete	RBNS	D
+IGF2BP3	KH,RRM	Empty	Empty	RNACompete	Empty	D
+PUM1	PUF	HTR	Empty	Empty	RBNS	D
+PUM2	PUF	HTR	Empty	Empty	Empty	D
+ZRANB2	RanBP ZF	HTR	SELEX	Empty	Empty	D
+FUS	RanBP ZF,RRM	Empty	SELEX	Empty	RBNS	D
+RBM5	RanBP ZF,RRM	Empty	Empty	RNACompete	Empty	D
+A1CF	RRM	Empty	Empty	RNACompete	RBNS	D
+RBFOX1	RRM	HTR	SELEX	RNACompete	Empty	D
+CELF4	RRM	HTR	Empty	RNACompete	Empty	D
+CELF5	RRM	Empty	Empty	RNACompete	Empty	D
+CELF6	RRM	Empty	Empty	RNACompete	Empty	D
+CNOT4	RRM	Empty	Empty	RNACompete	RBNS	D
+CPEB2	RRM	Empty	Empty	RNACompete	RBNS	D
+CPEB4	RRM	Empty	Empty	RNACompete	Empty	D
+DAZAP1	RRM	HTR	Empty	RNACompete	RBNS	D
+EIF4B	RRM	Empty	SELEX	Empty	Empty	D
+ELAVL1	RRM	HTR	Empty	RNACompete	Empty	D
+ELAVL2	RRM	Empty	SELEX	Empty	Empty	D
+ELAVL4	RRM	HTR	Empty	Empty	RBNS	D
+ENOX1	RRM	Empty	Empty	RNACompete	Empty	D
+ESRP2	RRM	Empty	Empty	RNACompete	Empty	D
+SRSF10	RRM	Empty	Empty	RNACompete	RBNS	D
+G3BP1	RRM	Empty	SELEX	Empty	Empty	D
+G3BP2	RRM	Empty	Empty	RNACompete	Empty	D
+HNRNPA1	RRM	HTR	SELEX	RNACompete	Empty	D
+HNRNPA1L2	RRM	HTR	Empty	RNACompete	Empty	D
+HNRNPA2B1	RRM	Empty	Empty	RNACompete	RBNS	D
+HNRNPAB	RRM	Empty	SELEX	Empty	Empty	D
+HNRNPC	RRM	HTR	Empty	RNACompete	RBNS	D
+HNRNPCL1	RRM	HTR	Empty	RNACompete	RBNS	D
+HNRNPH2	RRM	Empty	Empty	RNACompete	RBNS	D
+HNRNPL	RRM	HTR	Empty	RNACompete	RBNS	D
+HNRNPLL	RRM	HTR	Empty	Empty	Empty	D
+MATR3	RRM	Empty	Empty	RNACompete	Empty	D
+MSI1	RRM	HTR	Empty	RNACompete	RBNS	D
+NCL	RRM	Empty	SELEX	Empty	Empty	D
+NONO	RRM	Empty	SELEX	Empty	Empty	D
+PABPC1	RRM	Empty	SELEX	RNACompete	Empty	D
+PABPC3	RRM	Empty	Empty	RNACompete	Empty	D
+PABPC4	RRM	Empty	Empty	RNACompete	Empty	D
+PABPC5	RRM	HTR	Empty	RNACompete	Empty	D
+PABPN1	RRM	Empty	Empty	RNACompete	Empty	D
+PPRC1	RRM	Empty	Empty	RNACompete	Empty	D
+PTBP1	RRM	Empty	SELEX	RNACompete	Empty	D
+RALY	RRM	HTR	Empty	RNACompete	Empty	D
+RBM24	RRM	HTR	Empty	RNACompete	RBNS	D
+RBM28	RRM	HTR	Empty	RNACompete	Empty	D
+RBM3	RRM	Empty	Empty	RNACompete	Empty	D
+RBM4	RRM	HTR	Empty	RNACompete	RBNS	D
+RBM41	RRM	Empty	Empty	RNACompete	RBNS	D
+RBM42	RRM	HTR	Empty	RNACompete	Empty	D
+RBM46	RRM	HTR	Empty	RNACompete	Empty	D
+RBM6	RRM	HTR	Empty	RNACompete	RBNS	D
+RBM8A	RRM	Empty	Empty	RNACompete	Empty	D
+RBMS1	RRM	HTR	Empty	RNACompete	Empty	D
+RBMS3	RRM	HTR	Empty	RNACompete	RBNS	D
+RBMX	RRM	Empty	SELEX	Empty	Empty	D
+RBMY1A1	RRM	Empty	SELEX	Empty	Empty	D
+SART3	RRM	HTR	Empty	RNACompete	Empty	D
+SFPQ	RRM	Empty	SELEX	RNACompete	RBNS	D
+SNRNP70	RRM	HTR	Empty	RNACompete	Empty	D
+SNRPA	RRM	HTR	SELEX	RNACompete	RBNS	D
+SRSF1	RRM	Empty	SELEX	RNACompete	Empty	D
+SRSF2	RRM	Empty	SELEX	RNACompete	RBNS	D
+SRSF5	RRM	Empty	SELEX	Empty	RBNS	D
+SRSF9	RRM	Empty	SELEX	RNACompete	RBNS	D
+STAR-PAP	RRM	Empty	Empty	Empty	Empty	D
+TARDBP	RRM	HTR	Empty	RNACompete	RBNS	D
+TIA1	RRM	Empty	Empty	RNACompete	RBNS	D
+TIAL1	RRM	Empty	Empty	Empty	Empty	D
+TRA2B	RRM	Empty	SELEX	Empty	Empty	D
+U2AF2	RRM	Empty	Empty	RNACompete	Empty	D
+ZNF638	RRM	Empty	Empty	RNACompete	Empty	D
+SAMD4A	SAM	Empty	Empty	RNACompete	Empty	D
+ACO1	Unknown	Empty	SELEX	Empty	Empty	D
+YTHDC1	YTH	Empty	SELEX	Empty	Empty	D
+MBNL2	CCCH ZF	Empty	Empty	Empty	Empty	I
+MBNL3	CCCH ZF	Empty	Empty	Empty	Empty	I
+ZFP36L1	CCCH ZF	Empty	Empty	Empty	Empty	I
+ZFP36L2	CCCH ZF	Empty	Empty	Empty	Empty	I
+LIN28B	CCHC ZF,CSD	Empty	Empty	Empty	Empty	I
+RBM4	CCHC ZF,RRM	HTR	Empty	RNACompete	RBNS	I
+RBM4B	CCHC ZF,RRM	HTR	Empty	Empty	RBNS	I
+YBX3	CSD	HTR	Empty	Empty	Empty	I
+ANKRD17	KH	Empty	Empty	Empty	Empty	I
+ENSG00000248163	KH	Empty	Empty	Empty	Empty	I
+ENSG00000249536	KH	Empty	Empty	Empty	Empty	I
+ENSG00000249644	KH	Empty	Empty	Empty	Empty	I
+FUBP1	KH	Empty	Empty	Empty	RBNS	I
+MEX3B	KH	HTR	Empty	Empty	Empty	I
+MEX3C	KH	HTR	Empty	Empty	Empty	I
+MEX3D	KH	HTR	Empty	Empty	Empty	I
+PCBP3	KH	Empty	Empty	Empty	Empty	I
+PCBP4	KH	Empty	Empty	Empty	RBNS	I
+TAF15	RanBP ZF,RRM	Empty	Empty	Empty	RBNS	I
+BX511012.1	RRM	Empty	Empty	Empty	Empty	I
+CELF3	RRM	HTR	Empty	Empty	Empty	I
+CIRBP	RRM	Empty	Empty	Empty	Empty	I
+CPEB3	RRM	Empty	Empty	Empty	Empty	I
+ELAVL3	RRM	HTR	Empty	Empty	Empty	I
+ENOX2	RRM	Empty	Empty	Empty	Empty	I
+ENSG00000180771	RRM	Empty	Empty	Empty	Empty	I
+ENSG00000213250	RRM	Empty	Empty	Empty	Empty	I
+ENSG00000215042	RRM	Empty	Empty	Empty	Empty	I
+ENSG00000215492	RRM	Empty	Empty	Empty	Empty	I
+ENSG00000231942	RRM	Empty	Empty	Empty	Empty	I
+ENSG00000250177	RRM	Empty	Empty	Empty	Empty	I
+ESRP1	RRM	HTR	Empty	Empty	RBNS	I
+HNRNPA3	RRM	HTR	Empty	Empty	Empty	I
+HNRNPD	RRM	Empty	Empty	Empty	RBNS	I
+HNRNPF	RRM	Empty	Empty	Empty	RBNS	I
+HNRNPH1	RRM	Empty	Empty	Empty	Empty	I
+HNRNPR	RRM	Empty	Empty	Empty	Empty	I
+HNRNPDL	RRM	Empty	Empty	Empty	RBNS	I
+MSI2	RRM	HTR	Empty	Empty	Empty	I
+PABPC1L	RRM	Empty	Empty	Empty	Empty	I
+PABPN1L	RRM	Empty	Empty	Empty	RBNS	I
+PSPC1	RRM	Empty	Empty	Empty	Empty	I
+PTBP2	RRM	Empty	Empty	Empty	Empty	I
+RBFOX2	RRM	Empty	Empty	Empty	RBNS	I
+RBFOX3	RRM	HTR	Empty	Empty	RBNS	I
+RBM38	RRM	HTR	Empty	Empty	Empty	I
+RBM45	RRM	Empty	Empty	Empty	RBNS	I
+RBM47	RRM	Empty	Empty	Empty	RBNS	I
+RBMS2	RRM	HTR	Empty	Empty	RBNS	I
+RBMXL1	RRM	Empty	Empty	Empty	Empty	I
+RBMXL2	RRM	Empty	Empty	Empty	Empty	I
+RBMXL3	RRM	Empty	Empty	Empty	Empty	I
+RBMY1B	RRM	Empty	Empty	Empty	Empty	I
+RBMY1D	RRM	Empty	Empty	Empty	Empty	I
+RBMY1E	RRM	HTR	Empty	Empty	Empty	I
+RBMY1F	RRM	HTR	Empty	Empty	Empty	I
+RBMY1J	RRM	HTR	Empty	Empty	Empty	I
+PTBP3	RRM	Empty	Empty	Empty	RBNS	I
+SF3B4	RRM	Empty	Empty	Empty	Empty	I
+SNRPB2	RRM	HTR	Empty	Empty	Empty	I
+SRSF12	RRM	Empty	Empty	Empty	Empty	I
+SRSF3	RRM	Empty	Empty	Empty	Empty	I
+SRSF4	RRM	Empty	Empty	Empty	RBNS	I
+SRSF6	RRM	Empty	Empty	Empty	Empty	I
+SYNCRIP	RRM	Empty	Empty	Empty	Empty	I
+EIF2S1	S1	Empty	Empty	Empty	Empty	I
+SAMD4B	SAM	Empty	Empty	Empty	Empty	I
+AL662825.2	CCCH ZF	Empty	Empty	Empty	Empty	N
+AL662825.3	CCCH ZF	Empty	Empty	Empty	Empty	N
+BX000357.2	CCCH ZF	Empty	Empty	Empty	Empty	N
+BX119957.7	CCCH ZF	Empty	Empty	Empty	Empty	N
+BX248507.1	CCCH ZF	Empty	Empty	Empty	Empty	N
+BX248518.2	CCCH ZF	Empty	Empty	Empty	Empty	N
+BX908728.4	CCCH ZF	Empty	Empty	Empty	Empty	N
+BX927220.1	CCCH ZF	Empty	Empty	Empty	Empty	N
+CPSF4L	CCCH ZF	Empty	Empty	Empty	Empty	N
+CR388372.1	CCCH ZF	Empty	Empty	Empty	Empty	N
+CR753328.1	CCCH ZF	Empty	Empty	Empty	Empty	N
+CR759778.5	CCCH ZF	Empty	Empty	Empty	Empty	N
+CR847863.1	CCCH ZF	Empty	Empty	Empty	Empty	N
+DHX57	CCCH ZF	Empty	Empty	Empty	Empty	N
+DUS3L	CCCH ZF	Empty	Empty	Empty	Empty	N
+HELZ	CCCH ZF	Empty	Empty	Empty	Empty	N
+LENG9	CCCH ZF	Empty	Empty	Empty	Empty	N
+MKRN1	CCCH ZF	HTR	Empty	Empty	Empty	N
+MKRN2	CCCH ZF	Empty	Empty	Empty	Empty	N
+MKRN3	CCCH ZF	Empty	Empty	Empty	Empty	N
+NUPL2	CCCH ZF	Empty	Empty	Empty	RBNS	N
+PAN3	CCCH ZF	Empty	Empty	Empty	Empty	N
+PARP12	CCCH ZF	Empty	Empty	Empty	Empty	N
+PPP1R10	CCCH ZF	Empty	Empty	Empty	Empty	N
+PRR3	CCCH ZF	Empty	Empty	Empty	RBNS	N
+RC3H1	CCCH ZF	HTR	Empty	Empty	RBNS	N
+RC3H2	CCCH ZF	HTR	Empty	Empty	Empty	N
+RNF113A	CCCH ZF	Empty	Empty	Empty	Empty	N
+RNF113B	CCCH ZF	Empty	Empty	Empty	Empty	N
+TOE1	CCCH ZF	Empty	Empty	Empty	Empty	N
+TRMT1	CCCH ZF	Empty	Empty	Empty	Empty	N
+UNK	CCCH ZF	Empty	Empty	Empty	RBNS	N
+UNKL	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H13	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H15	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H18	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H3	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H4	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H6	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H7A	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H7B	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZC3H8	CCCH ZF	HTR	Empty	Empty	Empty	N
+ZGPAT	CCCH ZF	Empty	Empty	Empty	Empty	N
+ZMAT5	CCCH ZF	Empty	Empty	Empty	Empty	N
+CPSF4	CCCH ZF,CCHC ZF	Empty	Empty	Empty	Empty	N
+RBM22	CCCH ZF,RRM	Empty	Empty	Empty	RBNS	N
+RBM26	CCCH ZF,RRM	Empty	Empty	Empty	Empty	N
+RBM27	CCCH ZF,RRM	Empty	Empty	Empty	Empty	N
+U2AF1	CCCH ZF,RRM	Empty	Empty	Empty	Empty	N
+U2AF1L4	CCCH ZF,RRM	Empty	Empty	Empty	Empty	N
+ZRSR1	CCCH ZF,RRM	Empty	Empty	Empty	Empty	N
+ZRSR2	CCCH ZF,RRM	Empty	Empty	Empty	Empty	N
+CNBP	CCHC ZF	Empty	Empty	Empty	Empty	N
+DDX41	CCHC ZF	Empty	Empty	Empty	Empty	N
+PEG10	CCHC ZF	Empty	Empty	Empty	Empty	N
+PNMA3	CCHC ZF	Empty	Empty	Empty	Empty	N
+RBBP6	CCHC ZF	Empty	Empty	Empty	Empty	N
+RP11-1286E23.4	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC11	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC13	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC2	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC3	CCHC ZF	Empty	Empty	Empty	Empty	N
+RTL3	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC6	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC7	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC8	CCHC ZF	Empty	Empty	Empty	Empty	N
+ZCCHC9	CCHC ZF	Empty	Empty	Empty	Empty	N
+SF1	CCHC ZF,KH	Empty	Empty	Empty	RBNS	N
+RBM14-RBM4	CCHC ZF,RRM	Empty	Empty	Empty	Empty	N
+ZCCHC14	CCHC ZF,SAM	Empty	Empty	Empty	Empty	N
+APLF	CCHH ZF	Empty	Empty	Empty	Empty	N
+CARHSP1	CSD	HTR	Empty	Empty	Empty	N
+CSDC2	CSD	Empty	Empty	Empty	Empty	N
+CSDE1	CSD	Empty	Empty	Empty	Empty	N
+AKAP1	KH	Empty	Empty	Empty	Empty	N
+ASCC1	KH	Empty	Empty	Empty	Empty	N
+DDX43	KH	Empty	Empty	Empty	Empty	N
+DDX53	KH	Empty	Empty	Empty	Empty	N
+DPPA5	KH	Empty	Empty	Empty	Empty	N
+ERAL1	KH	Empty	Empty	Empty	Empty	N
+FUBP3	KH	Empty	Empty	Empty	RBNS	N
+HDLBP	KH	Empty	Empty	Empty	Empty	N
+KRR1	KH	Empty	Empty	Empty	Empty	N
+PNO1	KH	Empty	Empty	Empty	Empty	N
+TDRKH	KH	Empty	Empty	Empty	Empty	N
+PNPT1	KH,S1	Empty	Empty	Empty	Empty	N
+BICC1	KH,SAM	Empty	Empty	Empty	Empty	N
+LARP1	La	Empty	Empty	Empty	Empty	N
+LARP1B	La	Empty	Empty	Empty	Empty	N
+LARP4	La	Empty	Empty	Empty	Empty	N
+LARP4B	La	Empty	Empty	Empty	Empty	N
+LARP6	La,RRM	HTR	Empty	Empty	Empty	N
+LARP7	La,RRM	HTR	Empty	Empty	Empty	N
+SSB	La,RRM	Empty	Empty	Empty	Empty	N
+NOP9	PUF	Empty	Empty	Empty	Empty	N
+MDM2	RanBP ZF	Empty	Empty	Empty	Empty	N
+NEIL3	RanBP ZF	Empty	Empty	Empty	Empty	N
+NPLOC4	RanBP ZF	Empty	Empty	Empty	Empty	N
+NUP153	RanBP ZF	Empty	Empty	Empty	Empty	N
+RANBP2	RanBP ZF	Empty	Empty	Empty	Empty	N
+RBCK1	RanBP ZF	Empty	Empty	Empty	Empty	N
+RNF31	RanBP ZF	Empty	Empty	Empty	Empty	N
+RYBP	RanBP ZF	Empty	Empty	Empty	Empty	N
+SHARPIN	RanBP ZF	Empty	Empty	Empty	Empty	N
+CAPN15	RanBP ZF	Empty	Empty	Empty	Empty	N
+TAB2	RanBP ZF	Empty	Empty	Empty	Empty	N
+TAB3	RanBP ZF	Empty	Empty	Empty	Empty	N
+TEX13A	RanBP ZF	Empty	Empty	Empty	Empty	N
+YAF2	RanBP ZF	Empty	Empty	Empty	Empty	N
+ZRANB1	RanBP ZF	Empty	Empty	Empty	Empty	N
+ZRANB3	RanBP ZF	Empty	Empty	Empty	Empty	N
+EWSR1	RanBP ZF,RRM	Empty	Empty	Empty	RBNS	N
+RBM10	RanBP ZF,RRM	Empty	Empty	Empty	Empty	N
+AC004381.6	RRM	Empty	Empty	Empty	Empty	N
+AC008073.5	RRM	Empty	Empty	Empty	Empty	N
+AKAP17A	RRM	Empty	Empty	Empty	Empty	N
+AL662849.4	RRM	Empty	Empty	Empty	Empty	N
+AL844853.7	RRM	Empty	Empty	Empty	Empty	N
+ALKBH8	RRM	Empty	Empty	Empty	Empty	N
+BOLL	RRM	HTR	Empty	Empty	RBNS	N
+BRAP	RRM	Empty	Empty	Empty	Empty	N
+BX005143.2	RRM	Empty	Empty	Empty	Empty	N
+SLIRP	RRM	Empty	Empty	Empty	Empty	N
+CELF1	RRM	HTR	Empty	Empty	RBNS	N
+CELF2	RRM	Empty	Empty	Empty	Empty	N
+CPEB1	RRM	Empty	Empty	Empty	Empty	N
+CPSF6	RRM	Empty	Empty	Empty	Empty	N
+CPSF7	RRM	Empty	Empty	Empty	Empty	N
+CR388219.1	RRM	Empty	Empty	Empty	Empty	N
+CR759782.5	RRM	Empty	Empty	Empty	Empty	N
+CSTF2	RRM	HTR	Empty	Empty	Empty	N
+CSTF2T	RRM	HTR	Empty	Empty	Empty	N
+DAZ1	RRM	HTR	Empty	Empty	Empty	N
+DAZ2	RRM	Empty	Empty	Empty	Empty	N
+DAZ3	RRM	HTR	Empty	Empty	RBNS	N
+DAZ4	RRM	HTR	Empty	Empty	Empty	N
+DAZL	RRM	HTR	Empty	Empty	Empty	N
+DNAJC17	RRM	Empty	Empty	Empty	Empty	N
+EIF3B	RRM	Empty	Empty	Empty	Empty	N
+EIF3G	RRM	Empty	Empty	Empty	Empty	N
+EIF4H	RRM	Empty	Empty	Empty	Empty	N
+ENSG00000183403	RRM	Empty	Empty	Empty	Empty	N
+GRSF1	RRM	Empty	Empty	Empty	Empty	N
+HNRNPA0	RRM	HTR	Empty	Empty	RBNS	N
+HNRNPH3	RRM	Empty	Empty	Empty	Empty	N
+HNRNPM	RRM	Empty	Empty	Empty	Empty	N
+HTATSF1	RRM	Empty	Empty	Empty	Empty	N
+MARF1	RRM	Empty	Empty	Empty	Empty	N
+NIFK	RRM	Empty	Empty	Empty	Empty	N
+MTHFSD	RRM	Empty	Empty	Empty	Empty	N
+MYEF2	RRM	Empty	Empty	Empty	Empty	N
+NCBP2	RRM	Empty	Empty	Empty	Empty	N
+NCBP2L	RRM	Empty	Empty	Empty	Empty	N
+NOL8	RRM	Empty	Empty	Empty	Empty	N
+PABPC1L2A	RRM	Empty	Empty	Empty	Empty	N
+PABPC1L2B	RRM	Empty	Empty	Empty	Empty	N
+POLDIP3	RRM	Empty	Empty	Empty	Empty	N
+PPARGC1A	RRM	Empty	Empty	Empty	Empty	N
+PPARGC1B	RRM	Empty	Empty	Empty	Empty	N
+PPIE	RRM	Empty	Empty	Empty	Empty	N
+PPIL4	RRM	Empty	Empty	Empty	Empty	N
+PUF60	RRM	Empty	Empty	Empty	RBNS	N
+RAVER1	RRM	Empty	Empty	Empty	Empty	N
+RAVER2	RRM	Empty	Empty	Empty	Empty	N
+RBM11	RRM	Empty	Empty	Empty	Empty	N
+RBM12	RRM	Empty	Empty	Empty	Empty	N
+RBM12B	RRM	Empty	Empty	Empty	Empty	N
+RBM15	RRM	Empty	Empty	Empty	Empty	N
+RBM15B	RRM	Empty	Empty	Empty	RBNS	N
+RBM17	RRM	Empty	Empty	Empty	Empty	N
+RBM18	RRM	Empty	Empty	Empty	Empty	N
+RBM19	RRM	Empty	Empty	Empty	Empty	N
+RBM23	RRM	Empty	Empty	Empty	RBNS	N
+RBM25	RRM	Empty	Empty	Empty	RBNS	N
+RBM33	RRM	Empty	Empty	Empty	Empty	N
+RBM34	RRM	Empty	Empty	Empty	Empty	N
+RBM39	RRM	Empty	Empty	Empty	Empty	N
+RBM44	RRM	Empty	Empty	Empty	Empty	N
+RBM7	RRM	Empty	Empty	Empty	Empty	N
+RBMX2	RRM	Empty	Empty	Empty	Empty	N
+RBPMS	RRM	HTR	Empty	Empty	Empty	N
+RBPMS2	RRM	HTR	Empty	Empty	Empty	N
+RCAN2	RRM	Empty	Empty	Empty	Empty	N
+NELFE	RRM	Empty	Empty	Empty	Empty	N
+RDM1	RRM	Empty	Empty	Empty	Empty	N
+RNPC3	RRM	HTR	Empty	Empty	Empty	N
+RNPS1	RRM	Empty	Empty	Empty	Empty	N
+RRP7A	RRM	Empty	Empty	Empty	Empty	N
+SAFB	RRM	Empty	Empty	Empty	Empty	N
+SAFB2	RRM	Empty	Empty	Empty	Empty	N
+SCAF4	RRM	Empty	Empty	Empty	Empty	N
+SCAF8	RRM	Empty	Empty	Empty	Empty	N
+SETD1A	RRM	Empty	Empty	Empty	Empty	N
+SETD1B	RRM	Empty	Empty	Empty	Empty	N
+SLTM	RRM	Empty	Empty	Empty	Empty	N
+SNRNP35	RRM	Empty	Empty	Empty	Empty	N
+SPEN	RRM	Empty	Empty	Empty	Empty	N
+SREK1	RRM	Empty	Empty	Empty	Empty	N
+SRRT	RRM	Empty	Empty	Empty	Empty	N
+SRSF11	RRM	Empty	Empty	Empty	RBNS	N
+TDRD10	RRM	Empty	Empty	Empty	Empty	N
+ALYREF	RRM	Empty	Empty	Empty	Empty	N
+TMEM63A	RRM	Empty	Empty	Empty	Empty	N
+TMEM63B	RRM	Empty	Empty	Empty	Empty	N
+TNRC6A	RRM	Empty	Empty	Empty	Empty	N
+TNRC6B	RRM	Empty	Empty	Empty	Empty	N
+TNRC6C	RRM	Empty	Empty	Empty	Empty	N
+TRA2A	RRM	Empty	Empty	Empty	RBNS	N
+TRMT2A	RRM	Empty	Empty	Empty	Empty	N
+TRNAU1AP	RRM	Empty	Empty	Empty	RBNS	N
+U2SURP	RRM	Empty	Empty	Empty	Empty	N
+UHMK1	RRM	Empty	Empty	Empty	Empty	N
+UPF3B	RRM	Empty	Empty	Empty	Empty	N
+DHX8	S1	Empty	Empty	Empty	Empty	N
+MRPS28	S1	Empty	Empty	Empty	Empty	N
+PDCD11	S1	Empty	Empty	Empty	Empty	N
+POLR2G	S1	Empty	Empty	Empty	Empty	N
+SRBD1	S1	Empty	Empty	Empty	Empty	N
+SUPT6H	S1	Empty	Empty	Empty	Empty	N
+TTC14	S1	Empty	Empty	Empty	Empty	N
+ZCCHC17	S1	Empty	Empty	Empty	Empty	N
+ENSG00000185728	YTH	Empty	Empty	Empty	Empty	N
+YTHDC2	YTH	Empty	Empty	Empty	Empty	N
+YTHDF1	YTH	Empty	Empty	Empty	Empty	N
+YTHDF2	YTH	Empty	Empty	Empty	Empty	N
